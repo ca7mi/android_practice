@@ -1,0 +1,2 @@
+# android_practice
+ca7miのAndroid入門リポジトリ
